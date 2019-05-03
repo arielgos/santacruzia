@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439070526216",
+    "firebase_url": "https://ia-santa-cruz.firebaseio.com",
+    "project_id": "ia-santa-cruz",
+    "storage_bucket": "ia-santa-cruz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439070526216:android:85b477a53f15214f",
+        "android_client_info": {
+          "package_name": "com.agos.iasantacruz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439070526216-m1ljd2bmj6m6tk0bgl9g9p398ma4jc37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agos.iasantacruz",
+            "certificate_hash": "0592ae898f8e58e5b2b4fc24aac19464926fa3d5"
+          }
+        },
+        {
+          "client_id": "439070526216-0kmrfv9mm0e2sfj3ibsk2lcsuhbtempa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YzxzLt-2dvBaKMVy53nvD779eb9icsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439070526216-0kmrfv9mm0e2sfj3ibsk2lcsuhbtempa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
