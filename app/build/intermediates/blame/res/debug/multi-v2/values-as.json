@@ -4,7 +4,7 @@
             "outputFile": "/Users/agos/Documents/projects/gdg/ia/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml",
             "map": [
                 {
-                    "source": "/Users/agos/.gradle/caches/transforms-2/files-2.1/f2bde2d5fbf61eead95781e4bd81b53a/res/values-as/values.xml",
+                    "source": "/Users/agos/.gradle/caches/transforms-2/files-2.1/eaf83893005c05e31c5564d474e8db2b/res/values-as/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/agos/.gradle/caches/transforms-2/files-2.1/f602d00b4ed95d8efaef5a1c53b8fa00/res/values-as/values.xml",
+                    "source": "/Users/agos/.gradle/caches/transforms-2/files-2.1/f157c1e48f32121d5092a18c5a72f537/res/values-as/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
